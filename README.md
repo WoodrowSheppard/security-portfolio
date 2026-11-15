@@ -1,7 +1,6 @@
 # Security Portfolio: Woodrow Sheppard
 
 Documented cloud security investigations, built in a live Azure tenant
-(Mad Hat Labs, a multi-user training environment).
 
 Target role: SOC Analyst / Security Analyst
 Currently: Lead of logistics | Fayetteville, Ar
